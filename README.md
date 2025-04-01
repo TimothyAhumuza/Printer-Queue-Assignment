@@ -1,1 +1,1 @@
-A python program that Adds documents to the print queue, Removes document from the queue and Shows if the queue is empty.
+A printer can only **print one document at a time**. When multiple print requests come in, they should be stored in a queue and **printed in the order they were received** therefore this python program t Adds documents to the print queue, Removes document from the queue and Shows if the queue is empty.
