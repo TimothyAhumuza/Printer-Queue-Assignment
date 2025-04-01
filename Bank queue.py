@@ -29,7 +29,6 @@ class PrinterQueue:
             for i, doc in enumerate(self.queue, 1):
                 print(f"{i}. {doc}")
 
-# Demonstration of the PrinterQueue
 def main():
     printer = PrinterQueue()
     
